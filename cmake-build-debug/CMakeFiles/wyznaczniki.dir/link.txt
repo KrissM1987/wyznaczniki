@@ -1,0 +1,1 @@
+/usr/bin/gcc -g   CMakeFiles/wyznaczniki.dir/main.c.o  -o wyznaczniki 
